@@ -4,5 +4,6 @@ def hello():
     """
     return "Hello World"
 
-# Call the function and print the result
+
 print(hello())
+
