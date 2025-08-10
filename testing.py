@@ -1,7 +1,8 @@
 def hello():
-  """
-  this is demo
-  """
-  return "Hello World"
+    """
+    This is a demo function that returns a greeting.
+    """
+    return "Hello World"
 
-hello()
+# Call the function and print the result
+print(hello())
