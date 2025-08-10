@@ -1,0 +1,10 @@
+git init
+git status
+git add
+git commit
+git restore
+ git remote add origin https://github.com/samir-syedkhan/GITHUB-WORKSHOP.git
+git remote -v
+git remote set-url origin https://AccessToken@github.com/samir-syedkhan/GITHUB-WORKSHOP.git
+git remote -v
+git push origin main
